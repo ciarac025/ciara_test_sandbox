@@ -1,0 +1,5 @@
+# files/folder to ignore from git
+
+.DS_Store
+venv
+venv/*

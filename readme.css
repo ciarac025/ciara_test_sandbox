@@ -1,0 +1,7 @@
+/* You can name a .css file the same name as the markdown file and the markdown will look at it and overide its own css on compile to html. */
+
+
+body {
+
+	color: red;
+}
